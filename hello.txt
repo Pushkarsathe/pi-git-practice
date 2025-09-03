@@ -1,2 +1,3 @@
 Hello Git from Raspberry Pi 2!
 another line
+greetings from me
